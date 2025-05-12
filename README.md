@@ -1,1 +1,1 @@
-<br> This project is a plot-based simulation of cold, gravitational, collisionless collapse using a guided three-dimensional particle-mesh N-body code with Cloud-in-Cell interpolation, Fourier Transforms,  and the Verlet Method for Differential Equations.
+<br> This project is a plot-based simulation of cold, gravitational, collisionless collapse using a three-dimensional particle-mesh N-body code with Cloud-in-Cell interpolation, Fourier Transforms,  and the Verlet Method for Differential Equations.
